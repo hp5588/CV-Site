@@ -11,7 +11,7 @@ setup(name='cv-site-powen.kao',
       install_requires=[
             "Django==3.0.7",
             "django-cors-headers==3.4.0",
-            "Pillow==7.2.0",
+            "Pillow==8.2.0",
             "django-cleanup==5.0.0",
       ]
       )
