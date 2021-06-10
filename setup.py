@@ -9,7 +9,7 @@ setup(name='cv-site-powen.kao',
       author_email='hp5588@gmail.com',
       url='https://www.python.org/sigs/distutils-sig/',
       install_requires=[
-            "Django==3.0.7",
+            "Django==3.1.12",
             "django-cors-headers==3.4.0",
             "Pillow==7.2.0",
             "django-cleanup==5.0.0",
